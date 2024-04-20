@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sola Olabinjo</h1>
-<h3 align="center">A passionate data analyst from Nigeria</h3>
+<h3 align="center">A passionate data analyst in Canada</h3>
 
 - 🔭 I’m currently working on [my cloud architecture](https://github.com/SolaOlabinjo/MY-CLOUD-ARCHITECTURE-PROJECT/tree/main)
 
