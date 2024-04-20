@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sola Olabinjo</h1>
 <h3 align="center">A passionate data analyst in Canada</h3>
 
-- 🔭 I’m currently working on [my cloud architecture](https://github.com/SolaOlabinjo/MY-CLOUD-ARCHITECTURE-PROJECT/tree/main)
+- 🔭 I have just completed my project on [my cloud architecture](https://github.com/SolaOlabinjo/MY-CLOUD-ARCHITECTURE-PROJECT/tree/main)
 
 - 🌱 I’m currently learning **python, powerbi, sql**
 
